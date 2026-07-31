@@ -1,0 +1,13 @@
+outputs/
+checkpoints/
+logs/*.log
+wandb/
+__pycache__/
+*.pyc
+*.egg-info/
+.claude/
+*.swp
+*.swo
+.tmp/
+*.env
+.env.*
