@@ -16,7 +16,7 @@ protobuf
 # --- Webshop env deps (only needed for *_webshop experiments) ---
 # NOTE: pyserini also needs a JDK 11 + the spacy en_core_web_sm model + a built
 # Lucene index. train.sh's webshop setup block handles those at job startup.
-beautifulsoup4==4.11.1
+beautifulsoup4==4.15.0
 cleantext==1.1.4
 Flask==2.1.2
 Werkzeug==2.1.0
