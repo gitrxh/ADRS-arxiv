@@ -2,7 +2,10 @@
 ADRS: Agentic Reinforcement Learning with Self-Distilled Reward Shaping
 </h1>
 
-<p align="center"><strong>Ranxu Zhang</strong></p>
+<p align="center">
+  Ranxu Zhang &middot; Guinan Chen &middot; Chenshaodong &middot; Jinghao Lin<br>
+  Xiaozhou Xu &middot; Sunzhe &middot; Yanyong Zhang &middot; Chao Wang
+</p>
 
 <p align="center">
   <a href="https://arxiv.org/abs/2608.03223"><img src="https://img.shields.io/badge/arXiv-2608.03223-b31b1b.svg" alt="arXiv"></a>
@@ -212,7 +215,7 @@ python -m pytest tests/test_adrs.py -v
 ```bibtex
 @misc{adrs2026,
   title={Agentic Reinforcement Learning with Self-Distilled Reward Shaping},
-  author={Ranxu Zhang},
+  author={Ranxu Zhang and Guinan Chen and Chenshaodong and Jinghao Lin and Xiaozhou Xu and Sunzhe and Yanyong Zhang and Chao Wang},
   year={2026},
   eprint={2608.03223},
   archivePrefix={arXiv},
