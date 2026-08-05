@@ -226,7 +226,7 @@ python -m pytest tests/test_adrs.py -v
 
 ## Acknowledgement
 
-This project builds on [SDAR](https://arxiv.org/abs/2605.15155), [verl-agent](https://github.com/langfengQ/verl-agent) (GiGPO), [veRL](https://github.com/volcengine/verl), [ALFWorld](https://github.com/alfworld/alfworld), [WebShop](https://github.com/princeton-nlp/WebShop), and [Search-R1](https://github.com/PeterGriffinJin/Search-R1).
+This project builds on [SDAR](https://arxiv.org/abs/2605.15155), [verl-agent](https://github.com/langfengQ/verl-agent) (GiGPO), [verl](https://github.com/volcengine/verl), [ALFWorld](https://github.com/alfworld/alfworld), [WebShop](https://github.com/princeton-nlp/WebShop), and [Search-R1](https://github.com/PeterGriffinJin/Search-R1).
 
 ## License
 
